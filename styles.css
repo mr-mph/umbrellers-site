@@ -1,0 +1,18 @@
+html, body {
+    font-family: Inter, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(250, 228, 76);
+    background-color: rgb(69, 83, 101);
+}
+
+h1 {
+    font-size: 30pt;
+    margin: 50px;
+}
+
+img {
+    width: 150px;
+    margin: 50px;
+}
