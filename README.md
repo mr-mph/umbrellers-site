@@ -1,2 +1,2 @@
-# umbreller-site
-Website for the Umbreller game
+# umbrellers-site
+Website for the Umbrellers game
